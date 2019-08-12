@@ -1,0 +1,7 @@
+{
+  "name": "RTLPLZ",
+  "id": "742121299910255177",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
